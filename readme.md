@@ -48,7 +48,7 @@ If you need to change the field in any way, you can easily publish the file to y
 mkdir -p resources/views/vendor/backpack/crud/fields
 
 # copy the blade file inside the folder we created above
-cp -i vendor/digitallyhappy/toggle-field-for-backpack/src/resources/views/fields/toggle.blade.php resources/views/vendor/backpack/crud/fields/toggle.blade.php
+cp -i vendor/afzalsabbir/toggle-field-for-backpack/src/resources/views/fields/toggle.blade.php resources/views/vendor/backpack/crud/fields/toggle.blade.php
 ```
 
 **Step 2.** Remove the vendor namespace wherever you've used the field:
@@ -89,10 +89,10 @@ If you discover any security related issues, please email [the author](composer.
 
 MIT. Please see the [license file](license.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/digitallyhappy/toggle-field-for-backpack.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/digitallyhappy/toggle-field-for-backpack.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/afzalsabbir/toggle-field-for-backpack.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/afzalsabbir/toggle-field-for-backpack.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/digitallyhappy/toggle-field-for-backpack
-[link-downloads]: https://packagist.org/packages/digitallyhappy/toggle-field-for-backpack
+[link-packagist]: https://packagist.org/packages/afzalsabbir/toggle-field-for-backpack
+[link-downloads]: https://packagist.org/packages/afzalsabbir/toggle-field-for-backpack
 [link-author]: https://tabacitu.ro
 [link-contributors]: ../../contributors
