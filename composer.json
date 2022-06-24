@@ -1,5 +1,5 @@
 {
-    "name": "digitallyhappy/toggle-field-for-backpack",
+    "name": "afzalsabbir/toggle-field-for-backpack",
     "description": "Easily toggle boolean attributes with a new field type.",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
     "homepage": "https://github.com/digitallyhappy/toggle-field-for-backpack",
     "keywords": ["Laravel", "Backpack", "Backpack for Laravel", "Addon", "Admin Panel", "Toggle"],
     "require": {
-        "backpack/crud": "^4.1|^5.0"
+        "afzalsabbir/crud": "^4.1|^5.0"
     },
     "autoload": {
         "psr-4": {
