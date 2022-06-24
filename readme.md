@@ -63,7 +63,7 @@ $this->crud->addField([
 
 **Step 3.** Uninstall this package. Since it only provides one file - ```toggle.blade.php```, and you're no longer using that file, it makes no sense to have the package installed:
 ```bash
-composer remove digitallyhappy/toggle-field-for-backpack
+composer remove afzalsabbir/toggle-field-for-backpack
 ```
 
 

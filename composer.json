@@ -9,7 +9,7 @@
             "homepage": "https://tabacitu.ro"
         }
     ],
-    "homepage": "https://github.com/digitallyhappy/toggle-field-for-backpack",
+    "homepage": "https://github.com/afzalsabbir/toggle-field-for-backpack",
     "keywords": ["Laravel", "Backpack", "Backpack for Laravel", "Addon", "Admin Panel", "Toggle"],
     "require": {
         "afzalsabbir/crud": "^4.1|^5.0"
